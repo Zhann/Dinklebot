@@ -1,0 +1,25 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    cinch (2.1.0)
+    daemons (1.1.9)
+    httparty (0.13.1)
+      json (~> 1.8)
+      multi_xml (>= 0.5.2)
+    json (1.8.1)
+    mini_portile (0.6.0)
+    multi_xml (0.5.5)
+    nokogiri (1.6.3.1)
+      mini_portile (= 0.6.0)
+    snoo (0.1.2)
+      httparty
+      nokogiri
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  cinch
+  daemons (~> 1.1.9)
+  json
+  snoo
