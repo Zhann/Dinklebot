@@ -3,4 +3,4 @@
 require 'rubygems'
 require 'daemons'
 
-Daemons.run('lib/alphaghost.rb')
+Daemons.run('lib/dinklebot.rb')

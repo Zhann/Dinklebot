@@ -6,8 +6,8 @@ This is still in its early stages.
 
 # Run
 
-`./alphaghost help`
+`./dinklebot help`
 
 # Issues and Feature requests
 
-Please use https://github.com/Zhann/AlphaGhost/issues
+Please use https://github.com/Zhann/Dinklebot/issues

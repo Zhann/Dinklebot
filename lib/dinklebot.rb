@@ -10,7 +10,7 @@ require_relative 'plugins/subchecker'
 bot = Cinch::Bot.new do
   configure do |c|
     c.server   = 'irc.snoonet.org'
-    c.nick     = 'AlphaGhost'
+    c.nick     = 'Dinklebot'
     c.channels = ['#destinythegame']
     config.plugins.plugins = [SubChecker]
   end
